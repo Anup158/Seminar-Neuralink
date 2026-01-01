@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Logo](path-to-logo) <!-- TODO: Add project logo (e.g., related to neuroscience or Neuralink) -->
 
 [![GitHub stars](https://img.shields.io/github/stars/Anup158/Seminar-Neuralink?style=for-the-badge)](https://github.com/Anup158/Seminar-Neuralink/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Anup158/Seminar-Neuralink?style=for-the-badge)](https://github.com/Anup158/Seminar-Neuralink/network)
